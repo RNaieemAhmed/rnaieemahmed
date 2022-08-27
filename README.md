@@ -8,3 +8,6 @@
 - 📫 How to reach me: mail me @ naieem83329@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a cricket enthusiast 🏏
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
