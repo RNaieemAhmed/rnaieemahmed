@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**RNaieemAhmed/rnaieemahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Analysis
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on ML Projects
+- 🤔 I’m looking for help with Tensorflow
+- 💬 Ask me about my journey from Web dev to Data Science
 - 📫 How to reach me: mail me @ naieem83329@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm a cricket enthusiast 🏏
